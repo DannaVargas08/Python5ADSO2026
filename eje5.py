@@ -1,0 +1,8 @@
+print(5/2)
+print(type(5/2))
+print(5%2)
+print(type(5%2))
+print(5**2)
+print(type(5**2))
+print(15/4)
+print(type(15/4))
